@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QC on A Hugo website</title>
+    <link>/categories/qc/</link>
+    <description>Recent content in QC on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/qc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First R Example</title>
+      <link>/2020/06/06/first-r-example/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/06/first-r-example/</guid>
+      <description>Değişkenler
+ a &amp;lt;- c(1,2,3)</description>
+    </item>
+    
+  </channel>
+</rss>
